@@ -1,0 +1,334 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An occasional dialogue at a coffee-house, between Philanax Britannicus, and Calophilus Anglus, two loyal English gentlemen, sincere lovers of justice, truth, and their nations honour / authore Coffo-Philo.</title>
+            <author>Carr, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90097</idno>
+            <idno type="STC">Wing O1230</idno>
+            <idno type="STC">ESTC R181170</idno>
+            <idno type="EEBO-CITATION">43078101</idno>
+            <idno type="OCLC">ocm 43078101</idno>
+            <idno type="VID">151619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151619)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2267:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An occasional dialogue at a coffee-house, between Philanax Britannicus, and Calophilus Anglus, two loyal English gentlemen, sincere lovers of justice, truth, and their nations honour / authore Coffo-Philo.</title>
+                  <author>Carr, William.</author>
+               </titleStmt>
+               <extent>[2], 22+ p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year, M.DC.LXVII [1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Coffo-Philo is a pseudonym for William Carr.</note>
+                  <note>Imperfect: Lacks all after p. 22.</note>
+                  <note>Reproduction of original in: Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Carr, William.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151619:1" rendition="simple:additions"/>
+            <p>AN OCCASIONAL DIALOGUE AT A <hi>COFFEE-HO<g ref="char:V">Ʋ</g>SE,</hi> BETWEEN PHILANAX BRITANNICUS, AND CALOPHILUS ANGLUS, TWO LOYAL Engliſh Gentlemen, Sincere Lovers of <hi>J<g ref="char:V">Ʋ</g>STICE, TR<g ref="char:V">Ʋ</g>TH,</hi> and their NATIONS HONOUR.</p>
+            <p>
+               <hi>Authore</hi> COFFO-PHILO.</p>
+            <p>Printed in the Year, M.DC.LXVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:151619:2"/>
+            <pb n="1" facs="tcp:151619:2"/>
+            <head>
+               <hi>An Occaſional Dialogue at a</hi> COFFEE-HOUSE, <hi>between</hi> Philanax Britan<g ref="char:EOLhyphen"/>nicus, <hi>and</hi> Calophilus Anglus, <hi>two</hi> Loyal <hi>Engliſh Gentlemen, Sincere Lovers of</hi> Truth, Juſtice, <hi>and their</hi> Nations Honour.</head>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>MY old Friend</hi> Calophilus, <hi>I joy to ſee you, and to have this Opportunity of ſome Communi<g ref="char:EOLhyphen"/>cation with you, concerning the preſent general Diſtem<g ref="char:EOLhyphen"/>pers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cal.</speaker>
+               <p>My Noble friend, were we both employed in the Nations higheſt Concerns, and of greateſt Abilities to diſcharge, with all reſolute Integrity, our Truſt, they are but weak Remedies that Humane Endeavours can apply to State-Maladies. The beſt Antidote I know to prevent the poyſon of Common Injuſtice, and pro<g ref="char:EOLhyphen"/>cure a bleſſing from Heaven, is, For thoſe in Publick Authority, to improve, with all diligence, their power to redreſs particular Injuries, and relieve the oppreſſed from the Oppreſſor, and him that is too ſtrong for him; which, in time, by Induction, will amount to a Catho<g ref="char:EOLhyphen"/>lique cure, and therefore let us deſcend to more parti<g ref="char:EOLhyphen"/>cular paſſages.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:151619:3"/>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>Dear Sir, the frequent Revolutions and Subverſi<g ref="char:EOLhyphen"/>ons of all Kingdoms and States in the <g ref="char:V">Ʋ</g>niverſe, upon de<g ref="char:EOLhyphen"/>fection from the Rules of Juſtice, are ſufficient demonſtra<g ref="char:EOLhyphen"/>tions of your Aſſertion, by that irrefragable argument of experience in all Ages; and ſince Generals do ariſe from ma<g ref="char:EOLhyphen"/>ny Particulars, which are neareſt to Senſe, I commend your judgment; and the rather, that thereby you mind me of the promiſe you made, when we laſt met at the</hi> Coffee-houſe, <hi>that we ſhould diſcourſe the Affair of the Lord</hi> Gerard, <hi>and</hi> Carr, <hi>now on the Theatre; and I deſire to un<g ref="char:EOLhyphen"/>derſtand what this</hi> Carr <hi>is, and what his Tranſactions have been; for, I only know him by the Lord</hi> Gerards <hi>Report.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cal.</speaker>
+               <p>Sir, I thank you for your remembrance, and ſhall readily give what ſatisfaction I may, in relating the truth concerning <hi>Carr;</hi> and ſhall gladly receive from a per<g ref="char:EOLhyphen"/>ſon of your Ingenuity, any further Information, in refe<g ref="char:EOLhyphen"/>rence to the Tranſactions between the Lord <hi>Gerard</hi> and him; wherein, be aſſured, I ſhall affirm nothing on <hi>Carrs</hi> behalf, but what I am perſuaded will be proved by Wit<g ref="char:EOLhyphen"/>neſſes: nor ſhall I utter any thing touching the Lord <hi>Gerard,</hi> but apparent Truths. <hi>Carr</hi> I have known near Twenty three years, when a Scholar at <hi>Weſtminſter</hi> School, whence he was preferred to be Page to a per<g ref="char:EOLhyphen"/>ſon of Honour, who intending to give him the educa<g ref="char:EOLhyphen"/>tion of <hi>France,</hi> ſent him thither; but Providence ſo diſpoſed, that his Maſter dying, his Relict, the Lady, in<g ref="char:EOLhyphen"/>groſt the whole Eſtate, and, as yet, detains the Legacies given both to <hi>Carr,</hi> and others; whereupon, he ende<g ref="char:EOLhyphen"/>vours for a Livelihood to learn a Trade; which pro<g ref="char:EOLhyphen"/>ving not ſutable to his <hi>Genius,</hi> he becomes a Sollicitor; and, at laſt, was ſworn an Attorney of the Earl of <hi>South<g ref="char:EOLhyphen"/>ampton</hi>'s
+<pb n="3" facs="tcp:151619:3"/>Court of St. <hi>Giles;</hi> and was next employed by the Worſhipful Company of <hi>Brewers,</hi> his good Ma<g ref="char:EOLhyphen"/>ſters: both which Employs, afforded him and his Fami<g ref="char:EOLhyphen"/>ly a comfortable ſubſiſtence. And here I muſt mind you of one paſſage which <hi>Carr</hi> managed, much to the ho<g ref="char:EOLhyphen"/>nour of the <hi>Brewers</hi> Company, and manifeſtation of his own Integrity: which was, That when General <hi>Monck</hi> declared in <hi>Scotland</hi> againſt the proceedings of <hi>Lambert,</hi> and the pretended <hi>Committee of Safety,</hi> the <hi>Brewers</hi> fin<g ref="char:EOLhyphen"/>ding defect in the Laws of the Exciſe, there being in that juncture of time no Law for Collecting that duty, which that Loyal Company improves for the advantage of General <hi>Monck</hi>'s deſign, calling a Common Hall, which conſiſted of near 226 <hi>Maſter-Brewers,</hi> whereof not Ten proved Diſloyal; and there they reſolved to pay no more Exciſe, until it were Eſtabliſhed by Act of Parliament, then impoſſible. Whereupon, iſſues the ſevere Orders of <hi>Lambert</hi>'s Army, for every <hi>Brewer</hi> to have Souldiers quartered upon him, ſo to compel them to pay the Exciſe; but they reſolve to ſuffer all might be impoſed by thoſe Tyrants, rather than comply, or ſupport them with money; the onely want whereof, proved the utter ruine of <hi>Lambert</hi>'s Army; and cauſed their unexpected Retreat from <hi>New<g ref="char:EOLhyphen"/>caſtle,</hi> and the adjacent quarters,
+<note place="margin">They quartered cloſe.</note> where the Inhabitants were ready to cut their Throats in their Beds, for forcing Victuals and Fodder from them in ſuch abundance, without any ſatiſ<g ref="char:EOLhyphen"/>faction.</p>
+               <p>But to return to the <hi>Brewers</hi> negotiation upon this deſign of <hi>Lamberts</hi> Army upon them; Sir <hi>Samuel Sterlyn</hi> of <hi>London,</hi> Sir <hi>William Green</hi> Baronet, of
+<pb n="4" facs="tcp:151619:4"/>
+                  <hi>Weſtminſter, Emery Hill</hi> of <hi>Weſtminſter,</hi> and <hi>John Breden</hi> Alderman of <hi>London,</hi> conſulting with a few others of that Company, Pen'd and Printed a Paper, Intituled, <hi>Brick without Straw:</hi> And each Brewer, by frequent Arguments, prevailed with the Souldiers that quartered at their reſpective Houſes, to ſtand for a <hi>Free Parliament.</hi> And then Mr. <hi>Carr,</hi> with the aſſiſtance of Sir <hi>Edmund Godfrey,</hi>
+                  <note place="margin">
+                     <hi>Mr.</hi> Will. Carr <hi>went then</hi> Incognito, <hi>by the name of</hi> Morgan; <hi>yet had like to have been Trapan'd: and his bro<g ref="char:EOLhyphen"/>ther</hi> Steph. Carr <hi>was conſtrain'd to abſcond two Months.</hi>
+                  </note> Sir <hi>William Green,</hi> Sir <hi>Samuel Sterlyn,</hi> Alderman <hi>Breden,</hi> and <hi>Emery Hill,</hi> did Print a Declaration for a <hi>Free Parlia<g ref="char:EOLhyphen"/>ment,</hi> with 800 Inhabitants hands of <hi>Weſtminſter</hi> to it; which Mr. <hi>Carr</hi> preſented to the General up<g ref="char:EOLhyphen"/>on the Road, as he came out of <hi>Scotland,</hi> though the then prevalent Powers did offer 100 <hi>l.</hi> to diſcover the Author of that Declaration.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>But Sir, I am yet to ſeek what this</hi> Carr <hi>is, and have heard, he was a Servant to</hi> Scott; <hi>by whoſe means, he procured the Clerks place of the Sewers for</hi> Weſtminſter <hi>and</hi> Middleſex.</p>
+            </sp>
+            <sp>
+               <speaker>Cal.</speaker>
+               <p>To anſwer your deſires, my Noble friend, I muſt tell you, I have heard of ſome of the <hi>Carrs</hi> of <hi>Ford</hi>-Caſtle in <hi>Northumberland</hi> (the beſt Family I know of that name in <hi>England</hi>) acknowledge him for their near Relation: And as to the ſtory of his being <hi>Scotts</hi> man, to my knowledge it's a meer Fiction; for his acquain<g ref="char:EOLhyphen"/>tance with <hi>Scott,</hi> was upon the ſcore of his being Solli<g ref="char:EOLhyphen"/>citor for the Brewers, and ſo neceſſitated to make ap<g ref="char:EOLhyphen"/>plication to him, who was Chair-man of that Commit<g ref="char:EOLhyphen"/>tee appointed to hear the Brewers grievances: But it's evident, that by <hi>Carrs</hi> ſollicitation, <hi>Scott</hi> was prevailed
+<pb n="5" facs="tcp:151619:4"/>with to procure the releaſe of ſome of the Kings faith<g ref="char:EOLhyphen"/>ful Friends; by name, Sir <hi>Samuel Starlyn, Henry How<g ref="char:EOLhyphen"/>ard</hi> of <hi>Barks,</hi> and Dame <hi>Mary Howard</hi> out of the Tow<g ref="char:EOLhyphen"/>er: And many of the Loyal Party did employ <hi>Carr</hi> to get them diſcharged of Impriſonment; others, for Paſ<g ref="char:EOLhyphen"/>ſes to go beyond Seas; which he performed with much care and uprightneſs, as the Earl of <hi>Ancrum,</hi> and others have certified. And it's remarkable, that <hi>Carr</hi> beſtir'd himſelf with ſo much zeal for His Majeſties happy Re<g ref="char:EOLhyphen"/>ſtauration, that his Grace the Duke of <hi>Albemarte,</hi> that Father of his Countrey, Honour of his Nation, and Pattern of Loyalty, whom God hath ſignally bleſt in his greateſt Undertakings, hath largely certified <hi>Carrs</hi> activity, and Loyal endevours in that Service; inſo<g ref="char:EOLhyphen"/>much, That he went with Sir <hi>Thomas Clarges</hi> to <hi>Breda,</hi> where firſt he became known to the Lord <hi>Gerard,</hi> as I am informed.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>My dear Friend, ſince you are pleaſed to wade ſo far in this Diſcourſe, let me give you the trouble to ſatisfie me how</hi> Carr <hi>became Clerk of the Guard under the Lord</hi> Gerard; <hi>for I now perceive, he had better, and more ſafe Employments, than to rake after a Livelihood in a place of ſo much Temptation, Corruption and Hazard, under ſo harſh a Maſter; for (to ſpeak ingeniouſly) we that have followed the Court, have had ſad experience of his Lord<g ref="char:EOLhyphen"/>ſhips paſſionate miſcarriages; and do know, that no Ser<g ref="char:EOLhyphen"/>vant did ever thrive under him, nor any Tranſaction proſ<g ref="char:EOLhyphen"/>per in his own management, witneſs the</hi> Welſh <hi>Affair; the ill ſucceſs whereof, proved fatal to that Renowned Prince, His late Majeſty of bleſſed Memory. To which I may add, That dangerous and prodigiouſly deſperate Revolt at</hi> New<g ref="char:EOLhyphen"/>ark, <hi>no leſs Enormity.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:151619:5"/>
+               <speaker>Cal.</speaker>
+               <p>Pardon my interruption, for I think ſtrange you ſay, that none of my Lords ſervants have enriched themſelves, ſince their Employments are of ſo great a Truſt; for I have heard ſay, That when <hi>William Lawes,</hi> a near ſervant of his Lordſhips, was kill'd at <hi>Cheſter,</hi> the Lord <hi>Gerard</hi> miſt Ten thouſand pounds in Jewels and Money! And that one <hi>Bedell,</hi> who left his Lord<g ref="char:EOLhyphen"/>ſhips ſervice, Cozened him of God knows not what, (and ſome ſay) nor his Lordſhip neither! Yet I find the ſame <hi>Bedell</hi> afterwards admitted into the Lord <hi>Aſh<g ref="char:EOLhyphen"/>ley Cooper</hi>'s ſervice, who gave him ſuch Preferment, as became a generous Maſter to a faithful Servant; and it's reported, with like truth, That <hi>Carr</hi> went away from his Lordſhip with Twenty thouſand pounds: And now I ſhall proceed, to give you an account of <hi>Carrs</hi> Seven years Apprentiſhip under the Lord <hi>Gerard,</hi> and the Guard.</p>
+               <p>
+                  <hi>Sir,</hi> In that happy year of <hi>Englands</hi> Jubile 1660, <hi>Carr</hi> being at <hi>Breda,</hi> was preſented to His Majeſty, as one worthy of, and fit for Employ; at that time his <hi>Evil Star</hi> (as he uſually calls it) directs him to the Lord <hi>Gerards</hi> knowledge, who, after two or three dayes time, deſires <hi>Carr</hi> to preſent him with the Module of <hi>Cromwel</hi>'s Guard, who had by him moſt of the Eſtabliſhment of that Army; which he did, but the Rules did not alto<g ref="char:EOLhyphen"/>gether pleaſe his Lordſhip: Yet <hi>Carr</hi> was preſently em<g ref="char:EOLhyphen"/>ployed at the <hi>Hague,</hi> to Liſt a Life-guard to be Eſtab<g ref="char:EOLhyphen"/>liſhed in <hi>England,</hi> at Ten ſhillings <hi>per diem</hi> each Guard<g ref="char:EOLhyphen"/>man, as was then reported. And now <hi>Carr</hi> was prof<g ref="char:EOLhyphen"/>fered a more proper Employment for him under the Lord Chancellor, whoſe counſel he hath often, ſince, wiſhed he had followed; for his Lordſhip was pleaſed
+<pb n="7" facs="tcp:151619:5"/>to tell <hi>Carr,</hi> though then but a ſtranger, the Guards would never prove what the Lord <hi>Gerard</hi> ſaid they would be, which many an undone younger Brother hath ſince found by woful experience: But the Lord <hi>Gerard</hi> told <hi>Carr</hi> he was a Fool to look for any other place, for that of the Guard ſhould be a profitable Imploy; I preſume his Lordſhip meant to himſelf, as by the ſequel appears; for I have heard it will be proved, He exacts 2000 <hi>l.</hi> a year out of the Gentlemen over and above the juſt Pay belonging to his Lordſhip, which is converted into French Bees, Cloaths, and Kickſhaws Alamode, and <hi>Carr</hi> bore all the blame, burden, and many curſes to boot.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>I pray Sir, tell me how this Money was exacted unjuſtly? let me know the particulars.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cal.</speaker>
+               <p>The Guard conſiſted for three quarters of a year of 800 Gentlemen, modeſtly counted, before there was any eſtabliſhment, or put into Pay; at the eſtabliſh<g ref="char:EOLhyphen"/>ment, the 800 were reduced to 200, and here began <hi>Carr</hi>'s miſery; for thoſe only were eſtabliſhed, who could and did preſent, as <hi>Ben. Goſtin,</hi> who gave a Jepan Trunk, and Cabinets, with other things, and lent the Lady <hi>Gerard</hi> 250 <hi>l.</hi> not yet paid, as I am credibly informed; And here it is neceſſary likewiſe that I give you a relliſh of thoſe that bought their places: <hi>John Parſon</hi> the Brewers Son, for 100 <hi>l.</hi> was with great difficulty eſtabliſhed; <hi>William Crowder</hi> for a Diamond Ring. Mr. <hi>Man</hi> for 50 <hi>l.</hi> Mr. <hi>Hill</hi> for 50 <hi>l.</hi> And Mr. <hi>Richard <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>luellin</hi> for 200 <hi>l.</hi> was eſtabliſhed a Titular Marſhal by a Captain General of the Guards; And likewiſe there was <hi>Snape</hi> the Kings Farrier, who gave the ſum of 80 <hi>l.</hi> to be a Titular Farrier to the Guard,
+<pb n="8" facs="tcp:151619:6"/>and poor <hi>Thomas Woodall,</hi> for all his Cabinet to the La<g ref="char:EOLhyphen"/>dy, and his ſeveral Treats, was turned out, and his place ſold for 250 <hi>l.</hi> to <hi>Nathaniel Hubbard;</hi> but every Gen<g ref="char:EOLhyphen"/>tleman, whether Loyal or not, muſt pay 5 <hi>l.</hi> for his pre<g ref="char:EOLhyphen"/>heminency and priviledge on a bit of Parchment, ſub<g ref="char:EOLhyphen"/>ſcribed <hi>Charles Gerard,</hi> with a large Coat of Arms to it, and a good peniworth too; for ſome paid 50 <hi>l.</hi> for the ſame Ticket, to ſerve for a Protection againſt a <hi>Ne exeat Regnum;</hi> as <hi>I. G.</hi> and Alderman <hi>Waynwright</hi> did, and more decayed Citizens, and others, ſtill protected againſt the Law, though of <hi>Poſthumus Prieſtmans</hi> grain.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>But, I pray you Sir, How can the Lord</hi> Gerard <hi>anſwer the keeping in of ſuch young men, who never ſer<g ref="char:EOLhyphen"/>ved the King, but rather againſt Him? as</hi> John Lewin, <hi>who was</hi> Lockart<hi>'s man at</hi> Dunkirk; <hi>and was turned away, for Cozening a Serving-man of Ten ſhillings, which was given for a</hi> Cheſhire <hi>Cheeſe, preſented to</hi> Lockart, <hi>as Sir</hi> Gilbert Gerard <hi>hath often told me, and many others. And</hi> Whitworth <hi>(a Pedlar that ſold Tobacco up and down the Countrey) who bore Arms againſt his King in Sir</hi> George Booth<hi>'s buſineſs; and whoſe father, was that fa<g ref="char:EOLhyphen"/>mous Sequeſtrator, and ſeller of the Kings, and His Loyal Subjects Lands in</hi> Cheſhire.</p>
+            </sp>
+            <sp>
+               <speaker>Cal.</speaker>
+               <p>Sir, I perceive you know theſe particular per<g ref="char:EOLhyphen"/>ſons, and paſſages; but the Reaſons why they are con<g ref="char:EOLhyphen"/>tinued, I ſhall leave to his Lordſhips diſcovery, who beſt knows thoſe Myſteries: But, if you ask me, Why others, His Majeſties Loyal Subjects, were turn'd out? It's ſaid, by perſons of Credit, That <hi>Richard Paſtow,</hi> now Foot-Souldier in the Tower, was turn'd out, becauſe he took a Papiſt Prieſt that had Ruined many Families. Major
+<pb n="9" facs="tcp:151619:6"/>
+                  <hi>Conqueſt,</hi> becauſe no Boon-grace. Another, becauſe he limped with the Wounds he received in His Majeſties Service. And one, becauſe he could, or would not wear a Perriwig. And another, becauſe he could not ſit a Horſe, being a Juſtee. One, becauſe a Damn'd Engliſh Clown. Another, for not having Shoppo Cord<g ref="char:EOLhyphen"/>beck. And ſome, for being Superannueted; as Sir <hi>Horatio Cary,</hi> Colonel <hi>Pritty,</hi> and Mr. <hi>Gilmore,</hi> whom Sir <hi>Philip Howard</hi> received afterwards into his Troop, to his Honour, as young enough to perform Duty, being recommended to him by the charitable Gallantry of the Renowned General.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>But, Sir, Is it true what is hinted, That the Lord</hi> Gerard <hi>ſhould reap Profits out of the Souldiers Belts, Hooſes and Feathers?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cal.</speaker>
+               <p>All I can ſay to that Sir, is, That I will deliver nothing concerning the Lord <hi>Gerard</hi> upon common Fame, which proves often true; nor will I ſuffer my Judgment to be ſwayed by <hi>Vox Populi,</hi> though reputed <hi>Vox Dei;</hi> but will preſent you with ſome particulars herein: As, firſt, <hi>Gladwin</hi> the Belt-maker of the <hi>New Exchange,</hi> gave his Lordſhip 50 <hi>l.</hi> out of the Belts: And Mr. <hi>Walters</hi> the Sadler, gave 100 <hi>l.</hi> out of the Hooſes: And out of the Feathers which came from <hi>France</hi> for the Guard, his Lordſhip got largely; beſides 20 <hi>l.</hi> for his man <hi>Dickett,</hi> who went over to buy them, and his Lordſhips French Gallantry for his Equip at the Coro<g ref="char:EOLhyphen"/>nation. And here I muſt take the liberty to give you ſome particular Inſtances, in Anſwer to a former Queſti<g ref="char:EOLhyphen"/>on of yours, which was, How his Lordſhip could raiſe his Exactions perſonally upon the Gentlemen of the Guard? Firſt, Mr. <hi>Francis Cornwell</hi> had 14 Months pay
+<pb n="10" facs="tcp:151619:7"/>drawn from him at twice. <hi>John Bryers</hi> once, four Months, and another time two Months pay. Colonel <hi>Pritty,</hi> and Major <hi>Cooper,</hi> each a Muſters pay deducted from them. Mr. <hi>Edward Thornebrough,</hi> five Months pay, becauſe he fought with <hi>Richard Hallins;</hi> and <hi>Hallins,</hi> four Months pay, for fighting with <hi>Thornebrough.</hi> Mr. <hi>Read,</hi> becauſe he did not fight, nine Months pay. And Mr. <hi>William</hi> becauſe he would not fight, had ſix Months pay ſubſtracted from him; and ſo fight, or not fight, this Plow muſt go: Nay, out of the very Horſes feeding at the Guard, there muſt be a dark Lanthorn agreement for ſome petty gain, which <hi>William Barker</hi> can very well tell, and hath confeſt the hardſhip recei<g ref="char:EOLhyphen"/>ved from—But this is not all, his Lordſhips Agents, me<g ref="char:EOLhyphen"/>nial Servants, and Witneſſes, made uſe of upon what hard terms, God and his Lordſhip beſt knows, muſt be gratified with ſome By-profits, and Pay, to the King and Subjects coſt: <hi>viz.</hi> famous <hi>Thomas Colt,</hi> my Lords old ſervant and Gentleman of the Horſe, muſt have 50 <hi>l.</hi> to put in <hi>Miles Michell;</hi> his Agent Mr. <hi>Dobſon</hi> muſt be con<g ref="char:EOLhyphen"/>ſtantly in Pay, but never at Duty: both the <hi>Hollinſheads,</hi> though living in <hi>Lancaſhire</hi> and <hi>Cheſhire,</hi> Mr. <hi>Whitworth,</hi> Mr. <hi>Dickett,</hi> with other his Lordſhips ſervants, who have no Wages, but conſtant Guards-pay. All this is over and above the 2000 <hi>l. per Annum</hi> exacted, as before; and many a <hi>Boon Jour</hi> for my Lady. And here I muſt reflect with much reluctancy upon that great miſchief and diſgrace hath befallen the poor Gentlemen of the Guard, by ſtopping altogether, or delaying their Pay; for when at their friends coſts equipt out for the Guard, Riding ſo long without Pay, ſome, to ſupply their pre<g ref="char:EOLhyphen"/>ſent preſſing neceſſities, have been put to ſhameful ſhifts;
+<pb n="11" facs="tcp:151619:7"/>others, to Rob on the High-way, for which ſome of them have been hanged, as Mr. <hi>Atkinſon,</hi> and Mr. <hi>Cot<g ref="char:EOLhyphen"/>ter:</hi> Others, condemned, as <hi>W. S. H. B.</hi> and <hi>I. O.</hi> who got Pardons.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>My worthy friend, you ſtrike me with aſtoniſh<g ref="char:EOLhyphen"/>ment to think that this ſhould be ſo, which muſt of neceſ<g ref="char:EOLhyphen"/>ſity come to paſs, by the grand abuſe and ſtrange miſ<g ref="char:EOLhyphen"/>management of His Majeſties Pay, which (to my own knowledge) is the moſt, and moſt ready Pay in the World; and is therefore the fitter for young Gentlemen of good Fa<g ref="char:EOLhyphen"/>milies to give them a competent ſubſiſtence, and honourable Military education, and ſuch chiefly ought to be admitted into the Guards.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cal.</speaker>
+               <p>Now Sir you mind me of another great diſpa<g ref="char:EOLhyphen"/>ragement put upon the Guard, for quite contrary to what you ſay, perſons of meaneſt Birth, and ſordid Converſation, and Citizens that have Out-lived their Eſtates and Eſteems, are entertained in the Guard for their Money, and there protected againſt the Laws of this Kingdom, and their Creditors juſt and due De<g ref="char:EOLhyphen"/>mands; which ſometimes tends to the Ruine of the Creditors; if not ſo, yet they are commonly expoſed to a great deal of trouble and loſs; I could inſtance in Alderman <hi>Waynwright,</hi> and ſeveral others. But I muſt break off this Diſcourſe for a little while, my dear friend, becauſe I have a mind to a Pipe of Tobacco, and a Diſh of Coffee, and then we will diſcourſe further.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>Well Sir, now ſince your Pipe is out, and you have taken your Diſh, I would deſire you to ſatisfie me in one thing, which I ſhall propoſe to you, Whether or no</hi> Carr <hi>was not</hi> Jack <hi>in many Offices under the Lord</hi> Gerard, <hi>beſide Clerk of the Guard?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:151619:8"/>
+               <speaker>Cal.</speaker>
+               <p>Yes Sir, Mr. <hi>Carr</hi> I well know, did often ſollicit the Lord <hi>Gerards</hi> other Affairs to his coſt, and lent, and procured Money for him, when none elſe would, or could: 200 <hi>l.</hi> he lent his Lordſhip when he came firſt for <hi>England,</hi> yet unpaid; and I am ſure the Lady often borrowed Money of Mr. <hi>Carr,</hi> ſometimes on her Jew<g ref="char:EOLhyphen"/>els, which her Ladiſhip once pawned at Mr. <hi>Carrs</hi> houſe, and ſoon after deſired to borrow them for a Dancing night; but the Jewels cut ſuch a Caper, that <hi>Carr</hi> never ſaw them, nor his Money to this day, but was forced to take her Ladiſhips Bill for payment <hi>Alamode,</hi> and is yet out of his Money, which is <hi>No boone Engliſh faſhion.</hi> And one paſſage more I know certainly, That <hi>Carr</hi> having a Houſe in <hi>Covent-garden,</hi> which he Lett to Sir <hi>John Tal<g ref="char:EOLhyphen"/>bott</hi> for 100 <hi>l.</hi> Fine, and certain Rent, whereof he received a piece of old Gold in earneſt; but was, by the Lord <hi>Gerards</hi> imperious importunity, compelled to be unjuſt, and break his promiſe with Sir <hi>John Talbott,</hi> whoſe fa<g ref="char:EOLhyphen"/>vour, and friendſhip, thereby he loſt, and Money to boot: For when the Lord <hi>Gerard</hi> got intereſt in the houſe, he ſold the Leaſe thereof for 500 <hi>l.</hi> profit, to Sir <hi>Thomas Draper.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>I am exceedingly perplexed, my moſt faithful Friend, to hear what you aſſert concerning the Lord</hi> Gerard, <hi>and make ſo clearly out; and was alwayes afraid, that a man of his Lordſhips temper, ſhould be employed in ſuch high Truſts, which by his Ambition and Covetouſneſs, might be perverted to the Diſſervice of the Nation, and Diſobliging the Subject, and eſpecially the Loyal Military Gentlemen, by his indecorous Auſterity; for the Rules of general Reaſon never loſe their force when put in practice;</hi> Vis non corrigit ſed irritat, non coercit, ſed provocat
+<pb n="13" facs="tcp:151619:8"/>violentia: <hi>But Sir, though Recrimination is no defence, I hear</hi> Carr <hi>much blamed concerning the Military Ground taken from that Corporation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cal.</speaker>
+               <p>Concerning that, <hi>Carr</hi> doth publickly Aver, That the Lord <hi>Gerard</hi> onely purchaſing a Leaſe from <hi>Haines, Wilcocke,</hi> and others, Terre-Tenants to that Company; which though now expired, under colour thereof, his Lordſhip hath pluckt down, and altered much of that Free-hold, deſtroyed the Library, and imbezeled the Goods belonging to the Company; and though <hi>Carr</hi> at that inſtant might be ſomewhat ſubſer<g ref="char:EOLhyphen"/>vient to his Lordſhips impetuous Commands, and there<g ref="char:EOLhyphen"/>by (undeſervedly) loſt much of his Neighbors love; he both will, and can aſſiſt the Company in regaining their Eſtates: to which, he openly declares, he will contribute his utmoſt endeavours, which I conceive is all the ſatisfaction can be deſired in that particular: And truly Sir, I am both aſhamed, and grieved to hear what is reported concerning the Lord <hi>Gerard</hi>'s manage<g ref="char:EOLhyphen"/>ment of the buſineſs of <hi>Enfield Chaſe,</hi> for your further ſatisfaction, wherein I ſhall refer you to your honourable Friend the Earl of <hi>Salisbury,</hi> and to my good acquain<g ref="char:EOLhyphen"/>tance, old <hi>Norris, Bats</hi> and <hi>Barter,</hi> turn'd out by his Lordſhip, though great Sufferers for their Loyalty; and the Neighbours about the <hi>Chaſe,</hi> take little felicity in his Lordſhips Vicinity; and <hi>Barnet,</hi> with the adjacent Towns, complain heavily, That his Lordſhips Steward is the worſt Pay-maſter that ever came into a Countrey, which is <hi>Alamode, ex Domini moribus.</hi> And to give you a touch of other harſh dealings, <hi>Hargrues</hi> caſe was very hard, who, for that two French men quarrelled in his Houſe, becauſe they would not pay their Reckoning,
+<pb n="14" facs="tcp:151619:9"/>was Impriſoned, and for a long time in much trouble, and his Houſe threatned to be burned, and the poor Man to be thrown out of his own Window; to which I ſhall add, the too well known Sufferings of Mr. <hi>John Wright,</hi> a Common-Council Man of <hi>London,</hi> and of that worthy Citizen Mr. <hi>John Cade,</hi> it would be over tedious to tell you all. I have credibly heard of his Lordſhips cruelties, by the particular perſons unque<g ref="char:EOLhyphen"/>ſtionable affirmation, as one <hi>Avery</hi> a Coach-maker, living at <hi>Charing-Croſs,</hi> for asking money that was due to him, his Lordſhip gallantly broke his ſtaff about his Head, and after that drew his Sword: likewiſe one <hi>Howard</hi> a Mercer at the <hi>Hen</hi> and <hi>Chickens,</hi> ſending his Partner to demand the money that was owing them by the Lord <hi>Gerard,</hi> his Lordſhip did box and beat the poor Fellow up and down the Chamber in <hi>White-Hall,</hi> a place very ill becoming ſuch Injuries. Next a Smith at St. <hi>Martins Lane</hi> end, for only affronting his Lord<g ref="char:EOLhyphen"/>ſhips Foot-man, and a Meal-man his Neighbour, only for taking the Smiths part, were both of them clapt into the Meſſengers cuſtody, and it coſt them dearly to be releaſed, and admitted to begg his Lordſhips pardon; And Col. <hi>Streeter,</hi> for barely requeſting his Lordſhips compaſſion, and mediating for a Releaſe for the two poor Citizens that were impriſoned about <hi>Grangers</hi> Bible, his Lordſhip ſwore that he would cut <hi>Streeters</hi> Throat, and burn <hi>Cade</hi> and <hi>Wright</hi>'s Houſes, And were it not for the Law, (ſwearing a great Oath) He would Burn the City; And Dr. <hi>Gardner</hi> tells a more fearful ſtory, which he attended at the Houſe of Commons door to relate, but was not called upon.</p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:151619:9"/>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>Sir, not to interrupt you, I got cold laſt Night, and would willingly drink a Diſh of Lac't</hi> Coffee, <hi>or</hi> Chocolet, <hi>and ſo I would have you too, for methinks you ſpeak ſome<g ref="char:EOLhyphen"/>what hoarſe; they ſay, that either of them are good for a cold: But to our preſent Diſcourſe, Did you hear of</hi> Carrs <hi>Teſtimony in the Houſe of</hi> Commons <hi>in</hi> Fitton<hi>'s cauſe, or can you give me any account thereof?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cal.</speaker>
+               <p>I have juſt cauſe to know, that what Mr. <hi>Carr</hi> delivered before that Honourable Aſſembly in that Af<g ref="char:EOLhyphen"/>fair, was truth; and eſpecially concerning the Witneſ<g ref="char:EOLhyphen"/>ſes produced by his Lordſhip to ſupport <hi>Grangers</hi> teſti<g ref="char:EOLhyphen"/>mony for him: And here I muſt a little ſtir the Dung<g ref="char:EOLhyphen"/>hil, and diſcover ſomewhat of the whole pack of my <hi>Lords</hi> Witneſſes, &amp;c. <hi>Granger</hi> is ſo notoriouſly known, as to ſave me a labour; I therefore begin with <hi>Poſt. Prieſtman,</hi> almoſt as remarkable amongſt the Attornies of the Common-pleas, but better by the <hi>Lord Camden,</hi> and Gentry about <hi>Stamford,</hi> whereof he betrayed at one time 100 to <hi>Cromwell,</hi> of which number, about 22 were put to death thereupon. Another was <hi>Holland Simpſon,</hi> who carried a Halbert on the Scaffold that fa<g ref="char:EOLhyphen"/>tal 30th of <hi>January,</hi> when that horrid Tragedy was acted, which I tremble to mention; to add to his other perfections, he was a notorious <hi>Newgate</hi> bird; and to ſave his Craick, became Thief-taker. Next to him, is <hi>Peter Gifford,</hi> a Renegado Benedictive Monk, too well acquainted at <hi>Newgate, Bridewell,</hi> and moſt of the Pri<g ref="char:EOLhyphen"/>ſons in <hi>London;</hi> who, to be quit of a Priſon, became Prieſt, and Thief-taker. Then follows a pair of fa<g ref="char:EOLhyphen"/>mous Gaolers, <hi>Hugh Rowe,</hi> and <hi>Bayley,</hi> Keepers of the <hi>Gate-houſe,</hi> both dead ſince they confeſſed their Perjury againſt that great Sufferer Mr. <hi>Fitton,</hi> with very much
+<pb n="16" facs="tcp:151619:10"/>reluctancy, before ſeveral Neighbours, and to <hi>Carr</hi> in particular; and have left behind them a black me<g ref="char:EOLhyphen"/>morial of their Pranks: As <hi>Avery, Adams,</hi> and <hi>Cotton,</hi> the preſent Keepers of <hi>Newgate</hi> can, and do relate: And amongſt the reſt, Honourable Col. <hi>Aſhton,</hi> for<g ref="char:EOLhyphen"/>ſooth, whoſe Wife was condemned for a Shop-lifter in 1664, and for company ſake the Lord <hi>Gerard</hi>'s near Kinſman was Executed for the ſame Crime, and his Lordſhips Brothers Son was then in <hi>Graves-end</hi> Goal, for venting falſe Coin, who was therefore ſent to <hi>Bom<g ref="char:EOLhyphen"/>bay</hi> with Sir <hi>Jervace Luvas;</hi> Next, one <hi>Wheeler, Granger</hi>'s man, who had his red coat taken off, that being a foot Soldier, he might not appear in his proper colours; and had a new Sute bought him, that he might appear in his painted feather, a witneſs of more preva<g ref="char:EOLhyphen"/>lency than deſert; And then comes in another naked Gentleman, who had a Pluſh coat, which was borrow<g ref="char:EOLhyphen"/>ed purpoſely for him to wear, upon the day of the Tryal betwixt the Lord <hi>Gerard,</hi> and Mr. <hi>Fitton,</hi> the better to face out his Teſtimony; And Sir, I have breifly now hinted unto you what a bleſſed crew, and upon what virtuous ties of friendſhip were muſtered up, and combined together, to Swear out of doors the Juſtice of the Nation, and an Ancient, well de<g ref="char:EOLhyphen"/>ſerving Family out of their Right, and undoubted Inheritance; And although this may ſeem ſomewhat Satyrical; Yet, (Noble Friend) know, that nothing but my great love to Juſtice, and the great power of Truth exhorts me to give this relation, for to my own knowledge <hi>Carr</hi> was imployed by, <hi>&amp;c.</hi> to ſave <hi>Aſton</hi>'s Wife, and the other, <hi>&amp;c.</hi> And alſo to get young <hi>Gerard</hi> out of Priſon, in all which buſineſſes he disburſed
+<pb n="17" facs="tcp:151619:10"/>moneys, and is yet unpaid, except it be with the falſe Coin of hateful ingratitude, for his Lordſhip is pleaſed to caſt all the groundleſs aſperſions that malice can rake up, upon <hi>Carr,</hi> to blacken his Reputation: But the World laughs to think that his Lordſhip never diſco<g ref="char:EOLhyphen"/>vered <hi>Carr,</hi> whether true or falſe, Loyal or a Rogue, whilſt he carryed on his Lordips Intereſt: O this dumb and inſenſible god, Money!</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>True Sir, I have heard it reported by perſons of good repute, that</hi> Carr <hi>had great credit and reſpect, amongſt many worthy and wealthy Citizens, and ſo was able to ſerve his</hi> Lordſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Cal.</speaker>
+               <p>I Sir, but <hi>Carr</hi> almoſt loſt that credit, by be<g ref="char:EOLhyphen"/>ing looked upon as one that had a finger in the Pie, when <hi>Wright</hi> and <hi>Cade</hi> before named, ſuffered Impri<g ref="char:EOLhyphen"/>ſonment, and were ſo malitiouſly perſecuted, only for being Witneſſes to the Recantation of ſuch an horrid Perjury as <hi>Granger</hi>'s was; But <hi>Carr</hi> ſufficiently purged himſelf of that ſuppoſed Crime, for all men now do know clearly it was <hi>Dobſon, Preiſtman,</hi> and <hi>Whitworth</hi> that proſecuted that ſeverely, and had the moneys wreſted from the poor Citizens, to gain their Liberty: yet it coſt Mr. <hi>Carr</hi> dearly, for the Citizens highly reſenting the injury done to their good Neighbours, by Impriſonment, <hi>&amp;c.</hi> it made them ſuddenly call in their Credits in all places where <hi>Carr</hi> owed money, in one Goldſmiths Shop 9000 <hi>l.</hi> and to <hi>Carr</hi>'s very great de<g ref="char:EOLhyphen"/>triment, it coſt him at once 350 <hi>l.</hi> to borrow money at ſeveral places to pay off other Citizens.</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:151619:11"/>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>But Sir, Why did not</hi> Carr, <hi>knowing the Lord</hi> Gerard, <hi>and being ſo ſenſible of his own trouble<g ref="char:EOLhyphen"/>ſome life under him, quit himſelf ſooner of that Imploy<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cal.</speaker>
+               <p>Sir, It's certain <hi>Carr</hi> hath endeavoured it theſe three years, but the Lord <hi>Gerard</hi> had ſo faſt wedged him in, by the Ingagement of Moneys for his Lord<g ref="char:EOLhyphen"/>ſhip, and Relations; That he could not get off but to his utter Ruine: my Lord having often openly vowed, He would deſtroy <hi>Carr</hi> if he left his Imploy<g ref="char:EOLhyphen"/>ment: and therefore his Lordſhip, and Lady kept themſelves conſtantly indebted in great ſums of money unto <hi>Carr,</hi> as I have formerly related.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>But how at laſt came</hi> Carr <hi>to deſert the Lord</hi> Gerard <hi>at</hi> Portſmouth?</p>
+            </sp>
+            <sp>
+               <speaker>Cal.</speaker>
+               <p>I have been faithfully informed it was upon this occaſion, That <hi>Carr</hi> preſenting his Lordſhip with an Accompt of what his Lordſhip was undeniably in<g ref="char:EOLhyphen"/>debted unto him, whereof his Lordſhiy took ſuch no<g ref="char:EOLhyphen"/>tice that great ſums thereby became due and payable to <hi>Carr:</hi> to whom he thereupon declared, that unleſs <hi>Carr</hi> would allow his Lordſhip above 2000 <hi>l.</hi> more than had been really exacted out of the Pay of the Troop, he would neither account with <hi>Carr,</hi> nor pay him a penny; and then in a minacing manner, tells <hi>Carr</hi> he was a General, and that he could Hang, and Draw, without being queſtioned: inſomuch, that <hi>Carr</hi> being ſo well acquainted with his Lordſhips natural diſpoſi<g ref="char:EOLhyphen"/>tion, choller and carriage to others, was adviſed for ſome time to withdraw himſelf, yet ſent the Accompt by his Brother Mr. <hi>Stephen Carr:</hi> Whereupon his Lordſhip preſently ſent Soldiers into <hi>Carr</hi>'s Houſe,
+<pb n="19" facs="tcp:151619:11"/>who rifled his Cloſets, took away all his Books, and Files of Acquittances, and Writings belonging to others, and ſtole from, and robbed <hi>Carr</hi> of Goods to the value of 200 <hi>l. (viz.)</hi> Tapiſtry Hangings, a Wrought Bed, Linnen, and the very Childrens cloaths: did frighten his Wife and Children, by entring his Houſe at mid<g ref="char:EOLhyphen"/>night, and kept a Guard there for Fifteen Weeks to<g ref="char:EOLhyphen"/>gether, burning his coals and candles; and if his Wife would not give it to them, the Troopers ſwore they would burn the Chairs and Stools; and many nights drawing their Swords, attempted to force themſelves into the Rooms, where <hi>Carr</hi>'s Maid-Servants lodged; Things not heard of before in Engliſh ground in time of Peace, and which the learned in the Law conceive the greateſt breach of <hi>Magna Charta,</hi> and other the good and wholſom Laws of this Land, for the better countenance whereof, his Lordſhips wiſdom came often to viſit and confer with his Soldiers in <hi>Naboth</hi>'s Vine<g ref="char:EOLhyphen"/>yard, threatning <hi>Carr</hi>'s Wife, that if ſhe did not deliver up every bit of Paper belonging to her Husband, He would burn her Houſe, and clap her into Priſon during life.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>O what a happineſs have we in</hi> England, <hi>to live under ſuch a Government, and Laws, to curb the ſurge of ſuch Baſhaws! But I pray you proceed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cal.</speaker>
+               <p>Then Sir, <hi>Carr</hi> writes a letter to the General, to deſire his Paſs, and Protection to come and charge the Lord <hi>Gerard,</hi> and acquit himſelf, as an honeſt, and faithful man in his Imployment; And His Grace accordingly deſired his Lordſhips conſent thereunto:
+<pb n="20" facs="tcp:151619:12"/>But his Lordſhip would (by no means) be induced, that <hi>Carr</hi> ſhould be permitted to come and clear him<g ref="char:EOLhyphen"/>ſelf; but to prevent his coming over, ſent Orders to his Lordſhips Correſpondents in <hi>France, Holland</hi> and <hi>Flanders,</hi> to clap up <hi>Carr</hi> priſoner for 20000 <hi>l.</hi> but <hi>Carr</hi> eſcaped that Train, finding better men his friends there, than his Lordſhip, by whom were many old Remains in thoſe Parts left unpaid: And when <hi>Carr,</hi> upon good advice, came over to vindicate his Reputation, his Lord<g ref="char:EOLhyphen"/>ſhip hearing of his being amongſt his friends in <hi>London,</hi> conſults with his old <hi>Achitophels</hi> to practiſe on <hi>Carr,</hi> as he had done formerly on others; and his Lordſhip was perſuaded by his learned Council in the Law to decline ſuch courſes, as (by the following Diſcourſe) you ſhall underſtand he did take. Firſt, his Lordſhip Indicts <hi>Carr</hi> for Felony, in running from his Colours. Then for three Forgeries, and for Cheats. Mr. <hi>Carr</hi> abides the Tryals, and the Indictments proved ſo ridi<g ref="char:EOLhyphen"/>culous, they were hiſſed out of Court. When that would not take, his Lordſhip employs his Blood<g ref="char:EOLhyphen"/>hound, I mean the titular Marſhal <hi>Lewellin,</hi> and other Emiſſaries, to ſearch for <hi>Carr;</hi> whom, when they found, they haled out of a civil Merchants houſe in <hi>Biſhopſ<g ref="char:EOLhyphen"/>gate-ſtreet,</hi> took his Brother priſoner, and Ranſack't the Chambers, ſuppoſing they had been the ſecond time diſ<g ref="char:EOLhyphen"/>obliging <hi>Wales.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>Theſe are very ſtrange paſſages, and I am glad we are not at the publick Table, in regard we can be the more free one to another; Is not</hi> Lewin <hi>that you nam'd, the bro<g ref="char:EOLhyphen"/>ken Exchange man, that Cozened all his Creditors, was Im<g ref="char:EOLhyphen"/>priſon'd in</hi> Flanders <hi>for a Quoyner, and ſhould have been boyled in Oyl?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="21" facs="tcp:151619:12"/>
+               <speaker>Cal.</speaker>
+               <p>Yes Sir, by this Pipe that I have in my hand, the very ſame pitiful Wretch, who to pleaſe his two Ma<g ref="char:EOLhyphen"/>ſters that ſet him on work, the Lord <hi>Gerard</hi> and — Sacrilegiouſly entred the Abby at <hi>Weſtminſter,</hi> with a pack of ſuch Fellows as himſelf, and there ſeized upon <hi>Carr,</hi> tore his Band, Cloak, and ſtole his Perriwig, and by that means prevented <hi>Carrs</hi> delivering his Petition to the Parliament that day. Nay, Sir, the Lord <hi>Gerard</hi> made the Troopers of the Guard, ſo many Catch-poles, to arreſt <hi>Carr,</hi> honourable Services indeed for the Guard to be employ'd. And here be pleaſed, to obſerve with me the juſtice of the Officers of the <hi>Abby</hi> Church, who ſuffered <hi>Carr</hi> to be pluck't from the very Horns of the Altar; and to be Robbed, and Wounded to boot; and becauſe the Lord <hi>Gerard</hi> was concern'd, never as much as inquired after the Offenders: But if a poor Woman carry as much as a burden of Meal through the Church, or wear Pattins there, they ſhall be puniſhed and mul<g ref="char:EOLhyphen"/>cted. I muſt make a Digreſſion, This Coffee and To<g ref="char:EOLhyphen"/>bacco makes me a dry, I care not if the Boy bring a Bot<g ref="char:EOLhyphen"/>tle of Syder.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>
+                  <hi>Agreed, with all my heart Sir; and, I wiſh</hi> Carr <hi>were here to participate of it; for, I am inform'd, he is well belov'd amongſt Merchants and Citizens, and Men of good Credit and Repute; and is almoſt every day at</hi> Change, <hi>keeping up his Credit highly, notwithſtanding his late Af<g ref="char:EOLhyphen"/>flictions. Now your thirſt is quench't, I pray tell me what became of him, after he was ſeized upon by</hi> Lewellin, <hi>that Miſcreant, who offered ſuch violence in the Church, for I fear they had a Deſign to murder him? And, truly Sir; Who knows what the Devil might have tempted them to? By the Law, they ought to have their right hands cut off, for aſ<g ref="char:EOLhyphen"/>ſaulting in the Church.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="22" facs="tcp:151619:13"/>
+               <speaker>Cal.</speaker>
+               <p>I am pretty well refreſht with this Syder, and therefore ſhall anſwer your requeſt, as to what became of <hi>Carr</hi> afterward. His Lordſhip having <hi>Carr in limbo,</hi> diſcovers a degenerous, and ignoble cruelty (that Soul<g ref="char:EOLhyphen"/>deſtroying Malady) to a vanquiſh'd (as he thought) Adverſary, and <hi>Carr</hi> and his Brother are hurried to the Generals Guard, as if Malefactors; but neither His Ma<g ref="char:EOLhyphen"/>jeſty nor the General did meddle in the Affair; the Lord <hi>Gerard</hi> firſt ſends <hi>Carrs</hi> Brother, without Law, or Warrant, Priſoner to the Marſhals houſe; then ſends <hi>Carr</hi> (after he was kept on the Guard until 8 at night) to the Lord Chief Juſtice <hi>Keeling</hi>'s chamber, with Bea<g ref="char:EOLhyphen"/>dles, and Major <hi>Bings,</hi> with a Life-guard, for fear <hi>Carr</hi> ſhould be reſcued (a dread his Lordſhip might eaſily rid himſelf of) foreboding, with great joy, that <hi>Carr</hi> ſhould be immediately ſent to <hi>Newgate,</hi> the Metropoli<g ref="char:EOLhyphen"/>tan Gaol: But, that Righteous Judge above, who di<g ref="char:EOLhyphen"/>rects the Judges on earth, order'd it otherwiſe: For the truly Loyal Lord Chief Juſtice, obſerving prudently, the great and groundleſs Envy and Malice of that pro<g ref="char:EOLhyphen"/>ſecution, took poor <hi>Carrs</hi> own engagement for that Night, and diſcharged the Major, and his Watchmen, then at leiſure to go and tell his ſwollen and angry Lordſhip, That <hi>Carr</hi> was as free a man as himſelf; which you may be certain was ill-pleaſing News to my Lord. Whereat his Lordſhip being throughly alarm'd, poſts, with his nimble Agents, <hi>Dobſon, Poſthumus Prieſtman,</hi> and <hi>Whitworth,</hi> to the Lord Chief Juſtices chamber, to prevent (if they could poſſible) <hi>Carrs</hi> being Bailed, but to no purpoſe, for, it pleaſed God, that he was too many for them; his Lordſhips Grandeur and Huffing, could not any ways prevail againſt the Nations Juſtice.
+<gap reason="missing" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+               </p>
+            </sp>
+         </div>
+      </body>
+   </text>
+</TEI>
